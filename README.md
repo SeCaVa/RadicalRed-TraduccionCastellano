@@ -76,8 +76,8 @@ Pokémon Rojo Fuego: © Nintendo / Creatures Inc. / GAME FREAK inc.
 - Traducción y adaptación de gráficos: **SeCaVa**.
 - Nombres y textos oficiales de Pokémon Rojo Fuego en español: © Nintendo / Creatures Inc. / GAME FREAK inc.
 
-☕ Si quieres apoyar mi trabajo como traductor, puedes hacerlo en [Ko-fi](https://ko-fi.com/secava) o
-[GitHub Sponsors](https://github.com/sponsors/SeCaVa). Es totalmente voluntario: la traducción es y seguirá siendo
+☕ Si quieres apoyar mi trabajo como traductor, puedes hacerlo en [Ko-fi](https://ko-fi.com/secava),
+[Patreon](https://www.patreon.com/secava) o [GitHub Sponsors](https://github.com/sponsors/SeCaVa). Es totalmente voluntario: la traducción es y seguirá siendo
 gratis. Y si te gusta el juego, apoya también a soupercell, su autor.
 
 ### Aviso
@@ -143,8 +143,8 @@ contributors.
 - Translation and graphics adaptation: **SeCaVa**.
 - Official names and texts from the Spanish Pokémon FireRed: © Nintendo / Creatures Inc. / GAME FREAK inc.
 
-☕ If you'd like to support my work as a translator, you can do so on [Ko-fi](https://ko-fi.com/secava) or
-[GitHub Sponsors](https://github.com/sponsors/SeCaVa). It's completely optional: the translation is and will always
+☕ If you'd like to support my work as a translator, you can do so on [Ko-fi](https://ko-fi.com/secava),
+[Patreon](https://www.patreon.com/secava) or [GitHub Sponsors](https://github.com/sponsors/SeCaVa). It's completely optional: the translation is and will always
 be free. And if you enjoy the game, please support soupercell, its author, too.
 
 **Disclaimer**
