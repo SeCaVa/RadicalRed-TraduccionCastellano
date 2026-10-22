@@ -26,7 +26,7 @@ La traducción está hecha sobre la **versión 4.1** del hack.
    - CRC32: `FBA55DD8`
 3. Aplica a esa ROM el parche [`RadicalRed_ES_v0.3.bps`](https://github.com/SeCaVa/RadicalRed-TraduccionCastellano/releases/latest)
    con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-4. El resultado es una ROM de 32 MB con **CRC32 `7F7AB8FA`**. Juega con cualquier emulador de GBA (mGBA
+4. El resultado es una ROM de 32 MB con **CRC32 `7B7DDD1B`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
 El parche de la traducción se aplica **sobre Radical Red 4.1 en inglés**, no directamente sobre Rojo Fuego.
@@ -111,7 +111,7 @@ The translation is based on **version 4.1** of the hack.
 3. Apply [`RadicalRed_ES_v0.3.bps`](https://github.com/SeCaVa/RadicalRed-TraduccionCastellano/releases/latest) to
    that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS
    (Flips).
-4. The result is a 32 MB ROM with **CRC32 `7F7AB8FA`**. Play it on any GBA emulator (mGBA recommended).
+4. The result is a 32 MB ROM with **CRC32 `7B7DDD1B`**. Play it on any GBA emulator (mGBA recommended).
 
 The translation patch applies **on top of English Radical Red 4.1**, not directly to FireRed.
 
