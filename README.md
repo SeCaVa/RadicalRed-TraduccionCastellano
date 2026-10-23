@@ -8,7 +8,7 @@ formas regionales, movimientos y habilidades modernos y combates mucho más exig
 
 La traducción está hecha sobre la **versión 4.1** del hack.
 
-> **Versión 0.5 (beta).** El juego se puede jugar entero en castellano. Esta versión corrige los fallos avisados
+> **Versión 0.6 (beta).** Mismo juego que la 0.5; ahora el parche va directo sobre FireRed (USA). El juego se puede jugar entero en castellano. Esta versión corrige los fallos avisados
 > hasta la 0.4, pero sigue siendo una beta: puede quedar algún texto que se sale del cuadro, una errata o algún
 > resto en inglés. Cualquier aviso se agradece mucho.
 
@@ -21,15 +21,12 @@ La traducción está hecha sobre la **versión 4.1** del hack.
 
 1. Consigue una ROM de **Pokémon - FireRed Version (USA)**, revisión 1.0.
    - CRC32: `DD88761C`
-2. Aplícale el **parche oficial de Radical Red 4.1** (el `.ups` que distribuye su autor). Obtendrás la ROM en
-   inglés del hack:
-   - CRC32: `FBA55DD8`
-3. Aplica a esa ROM el parche [`RadicalRed_ES_v0.5.bps`](https://github.com/SeCaVa/RadicalRed-TraduccionCastellano/releases/latest)
+2. Aplica directamente a esa ROM el parche [`RadicalRed_ES_v0.6.bps`](https://github.com/SeCaVa/RadicalRed-TraduccionCastellano/releases/latest)
    con [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (desde el navegador) o con Floating IPS (Flips).
-4. El resultado es una ROM de 32 MB con **CRC32 `FFED3C3B`**. Juega con cualquier emulador de GBA (mGBA
+3. El resultado es una ROM de 32 MB con **CRC32 `FFED3C3B`**. Juega con cualquier emulador de GBA (mGBA
    recomendado).
 
-El parche de la traducción se aplica **sobre Radical Red 4.1 en inglés**, no directamente sobre Rojo Fuego.
+Desde la v0.6 el parche se aplica **directamente sobre FireRed (USA)**: ya no hace falta el parche inglés de Radical Red 4.1 (lleva el hack incluido).
 
 ---
 
@@ -95,7 +92,7 @@ much tougher battles.
 
 The translation is based on **version 4.1** of the hack.
 
-> **Version 0.5 (beta).** The whole game can be played in Spanish. This version fixes the issues reported up to
+> **Version 0.6 (beta).** Same game as 0.5; the patch now applies directly to FireRed (USA). The whole game can be played in Spanish. This version fixes the issues reported up to
 > 0.4, but it is still a beta: there may be some overflowing text, typos or leftover English. Any report is very
 > welcome.
 
@@ -106,14 +103,12 @@ The translation is based on **version 4.1** of the hack.
 
 1. Get a ROM of **Pokémon - FireRed Version (USA)**, revision 1.0.
    - CRC32: `DD88761C`
-2. Apply the **official Radical Red 4.1 patch** (the `.ups` released by its author) to get the English hack:
-   - CRC32: `FBA55DD8`
-3. Apply [`RadicalRed_ES_v0.5.bps`](https://github.com/SeCaVa/RadicalRed-TraduccionCastellano/releases/latest) to
-   that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS
+2. Apply [`RadicalRed_ES_v0.6.bps`](https://github.com/SeCaVa/RadicalRed-TraduccionCastellano/releases/latest)
+   directly to that ROM with [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) (in the browser) or with Floating IPS
    (Flips).
-4. The result is a 32 MB ROM with **CRC32 `FFED3C3B`**. Play it on any GBA emulator (mGBA recommended).
+3. The result is a 32 MB ROM with **CRC32 `FFED3C3B`**. Play it on any GBA emulator (mGBA recommended).
 
-The translation patch applies **on top of English Radical Red 4.1**, not directly to FireRed.
+Since v0.6 the patch applies **directly to FireRed (USA)**: the English Radical Red 4.1 patch is no longer needed (the hack is included).
 
 ### What is translated
 
